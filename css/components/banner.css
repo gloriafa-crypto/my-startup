@@ -1,0 +1,27 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.1) 10%), url(../../images/sunrise.jpg);
+	color: white;
+	padding:  140px 40px;
+	background-size: cover;
+	background-position: center;
+}
+.banner h1 {
+	font-size:  30px;
+	color: white;
+	font-weight: bold;
+	margin-bottom: 10;
+
+}
+.banner h2 {
+	font-size: 30px;
+	color: white;
+	font-weight: lighter;
+	margin-bottom: 40;
+}
+
+.banner h3{
+	font-size: 50px;
+	color: rgb(85,180,65);
+	font-weight: bold;
+	margin-bottom: 0;
+}
